@@ -1,4 +1,4 @@
 ## 📸 Demo
-- Live Site: https://yaseerm.me/javascript-projects/movie-search%20web%20app/
+- Live Site: https://infoyaseer.github.io/Movie-Search-App/
 - Source Code: This repository
   
